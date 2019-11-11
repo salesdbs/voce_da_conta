@@ -1,4 +1,5 @@
-# voce_da_conta
+####VOCE_DA_CONTA
+```
 sudo apt-get update
 sudo apt-get remove docker docker-engine docker.io
 sudo apt install docker.io
@@ -44,5 +45,6 @@ pip install sklearn
 pip install matplotlib numpy
 pip install numpy
 pip install pandas
-pip install Py4J 
+pip install Py4J
 pip install tables
+```
